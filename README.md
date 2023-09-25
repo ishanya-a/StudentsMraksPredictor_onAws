@@ -16,3 +16,4 @@
 
 <img width="960" alt="image" src="https://github.com/ishanya-a/StudentsMraksPredictor_onAws/assets/63252476/24ca39ed-bfd3-4390-b763-1a8da3913c79">
 
+<img width="833" alt="image" src="https://github.com/ishanya-a/StudentsMraksPredictor_onAws/assets/63252476/ffa85857-a5ab-455f-bdc6-e38af9836009">
